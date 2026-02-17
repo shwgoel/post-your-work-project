@@ -10,7 +10,7 @@ This could include:
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+You can add to this project by adding your experiences
 
 ## Credits
 
